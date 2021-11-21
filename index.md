@@ -1,10 +1,9 @@
 ---
+title: Rayén
 layout: default
 ---
 
-# Rayén
-
-I am a Chilean artist working with communities and bodies.
+I am a Chilean artist working with communities, bodies and intimacy.
 
 My previous projects include:
 
@@ -17,3 +16,7 @@ My previous projects include:
 I am currently doing a residency at [ARE](https://www.areholland.com/) in Enschede, Netherlands. If you are nearby, come and say hello!
 
 You can email me at rayen@rayen.studio.
+
+---
+
+_The code for this website is open source and available [here](https://github.com/joekroese/rayen.studio)._

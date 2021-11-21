@@ -1,5 +1,7 @@
 ---
-name: From Artist to Lover
+title: From Artist To Lover
+tagline: Exploring intimacy
+featured: true
 layout: default
 ---
 
