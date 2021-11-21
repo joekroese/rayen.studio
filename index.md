@@ -8,9 +8,11 @@ I am a Chilean artist working with communities and bodies.
 
 My previous projects include:
 
-* [From Artist to Lover](projects/from-artist-to-lover)
-* Project 2
-* Project 3
+{% for project in site.projects %}
+    {% if project.featured %}
+* __[{{ project.title }}]({{ project.url }})__ - _{{ project.tagline }}_
+    {% endif %}
+{% endfor %}
 
 I am currently doing a residency at [ARE](https://www.areholland.com/) in Enschede, Netherlands. If you are nearby, come and say hello!
 
