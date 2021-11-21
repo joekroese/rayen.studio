@@ -24,8 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:" A longer descri
   Rayén is a Chilean artist working with communities and bodies.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rayen.studio" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 sass:
   style: :compressed
